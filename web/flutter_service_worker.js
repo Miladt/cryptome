@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "843b2e69164072f8303010a8edc8b070",
-"index.html": "d25e5066e2dd461094f4bf6a374cc417",
-"/": "d25e5066e2dd461094f4bf6a374cc417",
-"main.dart.js": "4914f16a31b6932b3c0fdbff78aa51d3",
-"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
+"index.html": "b2364309628b30ee9c765e0175e1abf2",
+"/": "b2364309628b30ee9c765e0175e1abf2",
+"main.dart.js": "69cfcfa652717d08308cc32ef90def88",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -34,11 +33,7 @@ const RESOURCES = {
 "assets/assets/fonts/Polly-Regular.otf": "206e092448f46dfda216b6c070c7e00e",
 "assets/assets/fonts/Pelak-Bold.ttf": "bce14e3f2097e10f757996e68b846675",
 "assets/assets/fonts/PelakFA-Regular.ttf": "2f77a2408334071c7a3c5cfcea060298",
-"assets/assets/fonts/Polly-Bold.otf": "363aef3f98e1b34c0fb2657211c77ed3",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
+"assets/assets/fonts/Polly-Bold.otf": "363aef3f98e1b34c0fb2657211c77ed3"
 };
 
 // The application shell files that are downloaded before a service worker can
